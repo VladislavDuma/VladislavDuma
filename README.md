@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Полезные ссылки
+
+- [Таблица с характеристиками видеокарт](https://github.com/VladislavDuma/VladislavDuma/blob/main/gpu_specs/gpus.md)
+
 <!--
 **VladislavDuma/VladislavDuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
