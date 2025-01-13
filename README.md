@@ -2,7 +2,7 @@
 
 ### Полезные ссылки
 
-- [Таблица с характеристиками видеокарт / tables with GPU specs](https://github.com/VladislavDuma/gpu_specs)
+- [Таблица с характеристиками видеокарт для работы с LLM моделями / Detailed tables with GPU specs for LLMs](https://github.com/VladislavDuma/gpu_specs)
 
 <!--
 **VladislavDuma/VladislavDuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
